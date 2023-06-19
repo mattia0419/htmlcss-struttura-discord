@@ -1,0 +1,44 @@
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.container{
+    width: 1180px;
+    margin: 0 auto;
+}
+.debug{
+    border: dashed black;
+}
+.flex{
+    display: flex;
+}
+header{
+    background-color: #ADD8E6;
+    height: 450px;
+}
+nav{
+    background-color: #DAA520;
+    color: black;
+    justify-content: space-between;
+    display: block;
+    
+}
+.small-nav{
+    width: 25%;
+    padding: 10px;
+}
+.big-nav{
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.last-section-nav{
+    text-align: right;
+}
