@@ -59,12 +59,14 @@ a{
 .block-b-white{
     height: 450px;
     background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .f-section{
     height: 90%;
     justify-content: center;
-    
-    margin:auto
+    margin:auto;
 }
 .blue{
     width: 60%;
@@ -80,5 +82,8 @@ a{
 .block-b-gray{
     height: 450px;
     background-color: #D3D3D3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
