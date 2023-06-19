@@ -111,5 +111,23 @@ a{
     background-color: #1E90FF;
     border: dashed white;
 }
+footer{
+    height: 150px;
+    background-color: #23272A;
+    margin-top: 2px;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.foot{
+    background-color: #7FFFD4;
+    height: 50%;
+    justify-content: space-between;
+    align-items: center;
+}
+button{
+    background-color: #FFB6C1;
+    color: black;
+}
+
 
 
