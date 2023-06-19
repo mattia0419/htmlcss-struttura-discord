@@ -86,4 +86,15 @@ a{
     justify-content: center;
     align-items: center;
 }
+.block-b-gray-big{
+    height: 600px;
+    background-color: #D3D3D3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.green{
+    height: 90%;
+    background-color: #228B22;
+}
 
